@@ -1,4 +1,5 @@
-package org.centrale.api.controller;
+./gradlew run
+        package org.centrale.api.controller;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
